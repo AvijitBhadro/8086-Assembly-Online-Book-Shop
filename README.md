@@ -23,10 +23,8 @@ A simple **book inventory management system** built using **8086 Assembly Langua
 1. Open the **EMU8086** emulator.  
 2. Load the `book_inventory.asm` file.  
 3. Assemble & run the program.  
-4. Follow on-screen instructions for inventory management.  
 
-## 📷 Screenshots  
-*(Add screenshots here if possible!)*  
+
 
 ## 📜 License  
 This project is open-source. Feel free to use and modify it!  
